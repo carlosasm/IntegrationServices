@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "FiestIntegrationServices", "FiestIntegrationServices\FiestIntegrationServices.dtproj", "{751B72DC-9FD0-41E8-860D-00B8682AF3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751B72DC-9FD0-41E8-860D-00B8682AF3B6}.Development|Default.ActiveCfg = Development
+		{751B72DC-9FD0-41E8-860D-00B8682AF3B6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04469554-5A06-4B2B-A550-3F14A84451BB}
+	EndGlobalSection
+EndGlobal
